@@ -1,51 +1,59 @@
 [
 	{
-		"name": "Kekistan",
-		"leaderName": "Big Man Tyrone II",
-		"adjective": ["Kekistani","Syrian"],
+		"name": "The Aucellus",
+		"leaderName": "Casca IV",
+		"adjective": ["Aucelli"],
 		
-		"startBias": ["Desert"],
-		"preferredVictoryType": "Cultural",
+		"preferredVictoryType": "Diplomacy",
 		
-		"startIntroPart1": "Long live the Big Man! Your people have been forced from their home by the Second Civil War. Your namesake died in the fighting, but you live on, as mercenaries on the seas. You arrived in Syria, and have made your people a home in the husk of the nation. To ensure our survival, you united with Israel and in turn united the Levant. You were the great leader who led in peace and war. You knew of the dreams of the Anonymous and you became their earthly hand.",
-		"startIntroPart2": "Tyrone the Second of the Migrants, will you ensure the survival of our tradition? Will we rebuild the network that created the Internet? Will you build a culture that will stand the test of time?",
+		"startIntroPart1": "Hail, Accona Casca of the Aucellus! Your father and your ancestors come in a long line of leaders who date back to the Birdtamers, those who ruled the skies on behalf of the Birds!",
+		"startIntroPart2": "",
 		
-		"declaringWar": "The people have demanded a check on your power. Prepare for war.",
-		"attacked": "May you experience mercy, for it will not come from me.",
-		"defeated": "We'll always be here. The gallows are the beginning.",
-		"introduction": "Greetings, I welcome you to our land, but be wary of what you find.",
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "",
 		
-		"neutralHello": "Greetings",
-		"hateHello": "What do you want, fool?",
-		"tradeRequest": "Please take this into consideration. It suits you.",
+		"neutralHello": "",
+		"hateHello": "",
+		"tradeRequest": "",
 		
-		"outerColor": [0,200,0],
+		"outerColor": [0,255,255],
 		"innerColor": [255,255,255],
+		
+		"favoredReligion": "Judaism",
+		
+		"uniqueName": "The Sky Favors Us",
+		"uniques": [],
+		"cities": [],
+	},
+	{
+		"name": "The Forelle",
+		"leaderName": "The Flavian Council",
+		"adjective": ["Fiskuri"],
+		
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Military",
+		
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+		
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "",
+		
+		"neutralHello": "",
+		"hateHello": "",
+		"tradeRequest": "",
+		
+		"outerColor": [0,0,150],
+		"innerColor": [255,255,0],
 		
 		"favoredReligion": "Islam",
 		
-		"uniqueName": "The Rules of the Internet",
-		"uniques": [
-          "[+1 Culture, +1 Production] [in all cities] <after discovering [Printing Press]>",
-          "[+20]% [Culture] from Trade Routes",
-          "Free [Armed Anon] appears <upon enhancing a Religion>"
-         ],
-		"cities": [
-			"Kekstantinople",
-      "Aleppo",
-      "Latakia",
-      "Homs",
-      "Steamed Homs",
-      "Hasaka",
-      "Douma",
-      "Eurotown",
-      "Normina",
-      "Gulak",
-      "Hardin",
-      "Hancock",
-      "Warren",
-      "Meigs",
-      "Columbiana"
-		],
+		"uniqueName": "Exiles of the Sea",
+		"uniques": [],
+		"cities": [],
 	},
 ]
