@@ -6,17 +6,17 @@
 		
 		"preferredVictoryType": "Diplomacy",
 		
-		"startIntroPart1": "Hail, Accona Casca of the Aucellus! Your father and your ancestors come in a long line of leaders who date back to the Birdtamers, those who ruled the skies on behalf of the Birds!",
-		"startIntroPart2": "",
+		"startIntroPart1": "Hail, Accona Casca of the Aucellus! Your father and your ancestors come in a long line of leaders who date back to the Birdtamers, those who ruled the skies on behalf of the Birds! We have lost favor in the world due to our decline compared to modern technology, but you, our glorious leader, still have a chance to prove them wrong!",
+		"startIntroPart2": "Casca IV, distant descendent of the Birdtamers and successor to the assassins of Caesar, what will you decide to do with the people of the skies? Will our wings span across the globe? Will you build a civilization that will stand the test of time?",
 		
-		"declaringWar": "",
-		"attacked": "",
-		"defeated": "",
-		"introduction": "",
+		"declaringWar": "I would like for you to meet the rival of my namesake. His name is Caesar",
+		"attacked": "The skies shall fall on you. I hope you reconsider your actions soon.",
+		"defeated": "No! Quickly, promise to me that my people will survive. Please!",
+		"introduction": "Hello. Have you heard the birds chirp? I hope they speak well of you.",
 		
-		"neutralHello": "",
-		"hateHello": "",
-		"tradeRequest": "",
+		"neutralHello": "Good day.",
+		"hateHello": "Go on, spit it out!",
+		"tradeRequest": "I have a proposal.",
 		
 		"outerColor": [0,255,255],
 		"innerColor": [255,255,255],
@@ -24,7 +24,9 @@
 		"favoredReligion": "Judaism",
 		
 		"uniqueName": "The Sky Favors Us",
-		"uniques": [],
+		"uniques": [
+		"[+2] Sight for [Scout] units","[+2] Movement for [Air] units"
+		],
 		"cities": [],
 	},
 	{
@@ -33,27 +35,33 @@
 		"adjective": ["Fiskuri"],
 		
 		"startBias": ["Coast"],
-		"preferredVictoryType": "Military",
+		"preferredVictoryType": "Culture",
 		
-		"startIntroPart1": "",
-		"startIntroPart2": "",
+		"startIntroPart1": "Welcome to the council. Your seat will be on the left of the Minister of Foreign Affairs, or the 'Minister für auswärtige Angelegenheiten'. I'm aware that there's only a skeleton there. We've all been rotting in our ocean prison since Atlantis fell. Yet thanks to the council's namesake, Josephus' historical records have given us a chance to rise. A chance to not only reject the watery depths of the Atlantic but also take up land again. You hold the position of Minister of the Navy of Atlantis. You command the fish. You are the descendent of all that's left.",
+		"startIntroPart2": "So, time to get busy. They may be bodies, but your fellow ministers live in the waves. Please make something that will stand the test of time, for our sakes.",
 		
-		"declaringWar": "",
-		"attacked": "",
-		"defeated": "",
-		"introduction": "",
+		"declaringWar": "Must you be so vain? We're uncontested on the seas!",
+		"attacked": "So be it. Off to war!",
+		"defeated": "There is nothing to be said. Farewell",
+		"introduction": "Hello. Did you come to fish? I recommend against doing so.",
 		
-		"neutralHello": "",
-		"hateHello": "",
-		"tradeRequest": "",
+		"neutralHello": "Hallo",
+		"hateHello": "What is it?",
+		"tradeRequest": "So, what do you think?",
 		
 		"outerColor": [0,0,150],
 		"innerColor": [255,255,0],
 		
 		"favoredReligion": "Islam",
 		
-		"uniqueName": "Exiles of the Sea",
-		"uniques": [],
-		"cities": [],
+		"uniqueName": "Exiled to the Sea",
+		"uniques": [
+			"[+1 Production] from [Coast] tiles [in all cities]",
+			"[+1 Food, +1 Gold] from [Ocean] tiles [in all cities]",
+			"Cannot build [{Land} {Military}] units",
+			"[+2] Movement <in [Coast] tiles> <before the [Modern era]>",
+			"Cannot build [Settler] units"
+		],
+		"cities": ["Malani", "Sorveda","Leania","Seroni","Falon","Masara's Port", "Fasela", "Morilon","Wovelia"],
 	},
 ]
