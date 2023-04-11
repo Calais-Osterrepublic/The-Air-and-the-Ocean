@@ -1,10 +1,14 @@
 [
   	{
-		"name": "Monument",
-		"culture": 2,
-		"cost": 40,
-		"hurryCostModifier": 40,
-		"maintenance": 1,
-		"uniques": ["Destroyed when the city is captured"]
+		"name": "Pigeon Network",
+		"replaces": "Market",
+		"cost": 200,
+		"hurryCostModifier": 200,
+		"uniques": [
+			"[+1 Science, +2 Culture, +3 Gold] from each Trade Route",
+			"[5]% [Science] from Trade Routes",
+			"[5]% [Culture] from Trade Routes",
+			"[5]% [Gold] from Trade Routes"
+		]
 	},
 ]
