@@ -18,7 +18,7 @@
 		"hateHello": "Go on, spit it out!",
 		"tradeRequest": "I have a proposal.",
 		
-		"outerColor": [0,255,255],
+		"outerColor": [0,100,100],
 		"innerColor": [255,255,255],
 		
 		"favoredReligion": "Judaism",
