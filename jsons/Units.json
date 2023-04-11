@@ -3,58 +3,58 @@
 		"name": "Amphib Worker",
 		"unitType": "Civilian",
 		"uniqueTo": "The Forelle",
-    "replaces": "Worker",
+    		"replaces": "Worker",
 		"movement": 2,
 		"cost": 75,
 		"requiredTech": "Agriculture",
 		"uniques": [
-      "Can build [Land] improvements",
-      "Can build [Water] improvements <after discovering [Sailing]>",
-      "Founds a new city",
-      "[0] Movement point cost to disembark",
-      "[0] Movement point cost to embark"
-    ],
+		      	"Can build [Land] improvements",
+		      	"Can build [Water] improvements <after discovering [Sailing]>",
+		      	"Founds a new city",
+		      	"[0] Movement point cost to disembark",
+			"[0] Movement point cost to embark"
+		],
 	},
   {
 		"name": "Tamed Shark",
 		"unitType": "Submarine",
 		"uniqueTo": "The Forelle",
-    "replaces": "Submarine",
+    		"replaces": "Submarine",
 		"movement": 6,
 		"strength": 15,
 		"cost": 125,
 		"requiredTech": "Compass",
 		"uniques": [
-      "Double movement in [Ocean]",
-      "[+3] sight <after discovering [Radar]>"  
-      "Limited to [5] per civilization",
-      
-      "[+1000]% Strength <after discovering [Nuclear Fission]>"
-      "Consumes [1] [Uranium] <after discovering [Nuclear Fission]>"
-      "Nuclear Weapon strength of [1] <after discovering [Nuclear Fission]>"
-      "Blast radius of [2] <after discovering [Nuclear Fission]>"
-      "Self-destructs when attacking <after discovering [Nuclear Fission]>"
-    ],
+		      	"Double movement in [Ocean]",
+		      	"[+3] sight <after discovering [Radar]>"  
+		      	"Limited to [5] per civilization",
+
+		      	"[+1000]% Strength <after discovering [Nuclear Fission]>"
+		      	"Consumes [1] [Uranium] <after discovering [Nuclear Fission]>"
+		      	"Nuclear Weapon strength of [1] <after discovering [Nuclear Fission]>"
+		      	"Blast radius of [2] <after discovering [Nuclear Fission]>"
+			"Self-destructs when attacking <after discovering [Nuclear Fission]>"
+		],
 		"attackSound": "nonmetalhit"
 	},
   {
 		"name": "Falconer",
 		"unitType": "Archery",
 		"uniqueTo": "The Aucellus",
-    "replaces": "Archer",
+    		"replaces": "Archer",
 		"movement": 2,
 		"strength": 5,
-    "range": 3,
-    "rangedStrength": 5,
+		"range": 3,
+		"rangedStrength": 5,
 		"cost": 50,
 		"requiredTech": "Trapping",
 		"obsoleteTech": "Gunpowder",
 		"uniques": [
-      "[+5] Sight",
-      "Can see over obstacles",
-      "Ranged attacks may be performed over obstacles",
-      "Can see invisible [Wounded] units",
-    ],
+		      	"[+5] Sight",
+			"Can see over obstacles",
+			"Ranged attacks may be performed over obstacles",
+		      	"Can see invisible [Wounded] units",
+    		],
 		"attackSound": "nonmetalhit"
 	}
 ]
