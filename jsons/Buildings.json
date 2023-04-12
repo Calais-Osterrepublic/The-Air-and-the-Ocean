@@ -3,6 +3,7 @@
 		"name": "Pigeon Network",
 		"replaces": "Market",
 		"cost": 200,
+                "uniqueTo": "The Aucellus",
 		"hurryCostModifier": 200,
 		"uniques": [
 			"[+1 Science, +2 Culture, +3 Gold] from each Trade Route",
