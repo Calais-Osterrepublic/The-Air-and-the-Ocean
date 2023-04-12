@@ -8,8 +8,8 @@
 		"cost": 75,
 		"requiredTech": "Agriculture",
 		"uniques": [
-		      	"Can build [Land] improvements",
-		      	"Can build [Water] improvements <after discovering [Sailing]>",
+		      	"Can build [Land] improvements on tiles",
+		      	"Can build [Water] improvements on tiles <after discovering [Sailing]>",
 		      	"Founds a new city",
 		      	"[0] Movement point cost to disembark",
 			"[0] Movement point cost to embark"
