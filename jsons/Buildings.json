@@ -3,6 +3,7 @@
 		"name": "Pigeon Network",
 		"replaces": "Market",
 		"cost": 200,
+                "requiredTech": "Banking",
                 "uniqueTo": "The Aucellus",
 		"hurryCostModifier": 200,
 		"uniques": [
