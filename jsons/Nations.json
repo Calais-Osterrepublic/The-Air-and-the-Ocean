@@ -25,7 +25,7 @@
 		
 		"uniqueName": "The Sky Favors Us",
 		"uniques": [
-		"[+2] Sight for [Scout] units","[+2] Movement for [Air] units"
+		"[+2] Sight <for [Scout] units>","[+2] Movement <for [Air] units>"
 		],
 		"cities": ["Rome's Edge", "Aule","Lakara","Venicia Noka","Outpost 1","Outpost 2","Outpost 3","Outpost 4","Outpost 5"],
 	},
