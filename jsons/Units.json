@@ -26,13 +26,13 @@
 		"requiredTech": "Compass",
 		"uniques": [
 		      	"Double movement in [Ocean]",
-		      	"[+3] sight <after discovering [Radar]>"  
-		      	"Limited to [5] per civilization",
+		      	"[+3] Sight <after discovering [Radar]>",
+		      	"Limited to [5] per Civilization",
 
-		      	"[+1000]% Strength <after discovering [Nuclear Fission]>"
-		      	"Consumes [1] [Uranium] <after discovering [Nuclear Fission]>"
-		      	"Nuclear Weapon strength of [1] <after discovering [Nuclear Fission]>"
-		      	"Blast radius of [2] <after discovering [Nuclear Fission]>"
+		      	"[+1000]% Strength <after discovering [Nuclear Fission]>",
+		      	"Consumes [1] [Uranium] <after discovering [Nuclear Fission]>",
+		      	"Nuclear weapon of Strength [1] <after discovering [Nuclear Fission]>",
+		      	"Blast radius [2] <after discovering [Nuclear Fission]>",
 			"Self-destructs when attacking <after discovering [Nuclear Fission]>"
 		],
 		"attackSound": "nonmetalhit"
