@@ -4,7 +4,7 @@
 		"leaderName": "Casca IV",
 		"adjective": ["Aucelli"],
 		
-		"preferredVictoryType": "Diplomacy",
+		"preferredVictoryType": "Diplomatic",
 		
 		"startIntroPart1": "Hail, Accona Casca of the Aucellus! Your father and your ancestors come in a long line of leaders who date back to the Birdtamers, those who ruled the skies on behalf of the Birds! We have lost favor in the world due to our decline compared to modern technology, but you, our glorious leader, still have a chance to prove them wrong!",
 		"startIntroPart2": "Casca IV, distant descendent of the Birdtamers and successor to the assassins of Caesar, what will you decide to do with the people of the skies? Will our wings span across the globe? Will you build a civilization that will stand the test of time?",
@@ -35,7 +35,7 @@
 		"adjective": ["Fiskuri"],
 		
 		"startBias": ["Coast"],
-		"preferredVictoryType": "Culture",
+		"preferredVictoryType": "Cultural",
 		
 		"startIntroPart1": "Welcome to the council. Your seat will be on the left of the Minister of Foreign Affairs, or the 'Minister für auswärtige Angelegenheiten'. I'm aware that there's only a skeleton there. We've all been rotting in our ocean prison since Atlantis fell. Yet thanks to the council's namesake, Josephus' historical records have given us a chance to rise. A chance to not only reject the watery depths of the Atlantic but also take up land again. You hold the position of Minister of the Navy of Atlantis. You command the fish. You are the descendent of all that's left.",
 		"startIntroPart2": "So, time to get busy. They may be bodies, but your fellow ministers live in the waves. Please make something that will stand the test of time, for our sakes.",
